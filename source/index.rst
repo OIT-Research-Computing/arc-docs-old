@@ -3,9 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-*******************
-Welcome to ARC Docs
-*******************
+**********************
+ARC DOCS IS DEPRICATED
+**********************
+
+.. _`New Site`: https://psurc-docs.readthedocs.io
 
 ARC Docs is a collection of documents, notes, instructions and tutorials that help explain resources available to students and faculty provided by `Academic & Research Computing`_ through PSU_\s OIT_.
 
