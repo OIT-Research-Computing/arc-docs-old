@@ -7,7 +7,7 @@
 ARC DOCS IS DEPRICATED
 **********************
 
-New version of arc-docs `psurc-docs: <https://psurc-docs.readthedocs.io>`_
+New version of arc-docs: `psurc-docs <https://psurc-docs.readthedocs.io>`_
 
 ARC Docs is a collection of documents, notes, instructions and tutorials that help explain resources available to students and faculty provided by `Academic & Research Computing`_ through PSU_\s OIT_.
 
