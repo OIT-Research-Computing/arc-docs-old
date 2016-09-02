@@ -4,6 +4,7 @@
 Slurm Cluster Scheduler
 ***********************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
 
 This section contains information on general slurm use.  If this is your first time running slurm, it is recommended that you read over some of the basics on the official `Slurm Website <http://slurm.schedmd.com/documentation.html>`_ and watch this introductory video: `Introduction to slurm tools video <https://www.youtube.com/watch?v=U42qlYkzP9k>`_
 
@@ -91,4 +92,3 @@ Useful Slurm Links
 - `Slurm Tutorials <http://slurm.schedmd.com/tutorials.html>`_
 - `Slurm Publications <http://slurm.schedmd.com/publications.html>`_
 - `Slurm At Harvard <https://rc.fas.harvard.edu/resources/running-jobs/>`_
-
