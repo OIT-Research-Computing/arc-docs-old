@@ -2,6 +2,9 @@
 Knowing your software
 *********************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 The best thing you can do to learn how to use new and complicated Unix software packages is get it running on your local machine.  Once you have that experience, getting it running in a shared computing environment will make a lot more sense.
 
 All of ARC's Servers run CentOS Linux, a flavor of Unix.

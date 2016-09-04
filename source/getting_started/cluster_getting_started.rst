@@ -2,6 +2,9 @@
 Getting Started With Clusters
 *****************************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Importance Of Scheduling Jobs:
 ==============================
 A computer cluster is a **group of connected computers** that allow you to distrube parralel/multiprossing jobs accross multiple computers. The computer that manages all of the other computers (``nodes``) is called the ``head node``. The ``head node`` uses software, called a ``scheduler``, to manage and distrube jobs throughout the ``nodes``. 

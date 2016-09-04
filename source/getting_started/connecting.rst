@@ -2,6 +2,9 @@
 Connecting to a Server
 **********************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 .. TODO: Write a step by step tutorial here on how to do this.
 
 The research systems are accessed primarily through use of a command-line interface utilizing a secure shell (SSH). For information on how to use this go here:

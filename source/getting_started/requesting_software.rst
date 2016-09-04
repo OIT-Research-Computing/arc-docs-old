@@ -2,6 +2,9 @@
 Requesting software
 *******************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Once you have tested your software and you think your package should be installed system wide you can email consultants@pdx with all relevant details to the installation of your software.  That includes
 
 - Program Name

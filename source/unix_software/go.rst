@@ -4,6 +4,9 @@
 Go
 ******
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 ``Go`` is an open source programming language initially developed by Google. Go version 1.4.2 is currently installed on the compute servers, ``Crice`` and ``Hecate``.
 
 Setting up Go on your system:

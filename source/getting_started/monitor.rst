@@ -2,6 +2,9 @@
 Monitoring Server Load
 **********************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Before you start a new job, it is important to check to see what resources are currently in use.  If you are using a general compute server, you can use :ref:`htop`.  If you are using a cluster, you can use ``squeue`` (part of :ref:`slurm`) and :ref:`Ganglia`
 
 Compute Servers (Circe/Hecate)

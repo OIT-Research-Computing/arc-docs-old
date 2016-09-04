@@ -3,6 +3,9 @@
 Picking A Server
 ****************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Once you have an idea of the software you wish to run, and its hardware requirements, you can pick a server to run your compute jobs on.
 
 Circe

@@ -4,6 +4,9 @@
 GCC
 ***
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 ARC aims to supply robust up-to-date versions of GCC.
 
 Currently we support the lastest release of every major version of GCC. If there is a version of GCC that isn't supported that you need please let us know and we'll get to building it for you.

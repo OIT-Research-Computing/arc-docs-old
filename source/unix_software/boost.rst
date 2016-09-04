@@ -4,6 +4,9 @@
 Boost 1.58.0
 ************
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 The ``Boost Library`` is a large set of libraries for C++.
 
 Using Boost 1.58.0 on your system:

@@ -4,6 +4,9 @@
 Python
 ******
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 
 It is difficult to update python beyond the version CentOS provides at the system level.  For this reason, ARC offers an alternate python environments using ``pyenv``.
 

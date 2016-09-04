@@ -4,6 +4,9 @@
 stow
 ****
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Stow is a simple program that lets you automatically create symlinks between subfolders in a ``stow`` directory to the parent directory of the ``stow`` folder.  It is usful for managing built-from-srouce software.  It is used in ``/vol/apps/`` but it is also useful in your home directory.
 
 Setting up programs in your home directory with stow

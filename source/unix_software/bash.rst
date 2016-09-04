@@ -2,6 +2,9 @@
 Bash
 ****
 
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+
+
 Bash is the default ``shell`` on ARC's systems. You are free to use a different shell if you'd like, however, all of our documentation only supports Bash implementations.
 
 Check which shell you are running
