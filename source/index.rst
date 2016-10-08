@@ -7,12 +7,13 @@
 ARC DOCS IS DEPRICATED
 **********************
 
-.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: :ref:`https://github.com/PSU-Research-Computing/psurc-docs.git`_
+.. warning:: ARC-Docs is depricated and will no longer be updated. New version can be found at: `PSURC Docs`
 
 ARC Docs is a collection of documents, notes, instructions and tutorials that help explain resources available to students and faculty provided by `Academic & Research Computing`_ through PSU_\s OIT_.
 
 .. note:: Please direct any errors or questions to consultants@pdx.edu or submit a pull request with proposed changes by following the edit button in the upper right hand corner.
 
+.. _`PSURC Docs`: http://psurc-docs.readthedocs.io/en/latest/
 .. _`Academic & Research Computing`: http://www.pdx.edu/arc/academic-and-research-computing
 .. _PSU: http://www.pdx.edu
 .. _OIT: http://www.pdx.edu/oit/
